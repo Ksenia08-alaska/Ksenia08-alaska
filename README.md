@@ -1,6 +1,18 @@
 >Oдно из основных правил жизни- не гонись за тем что само уходит
 >
 >-PHARAOH
+
+<a href="https://t.me/pkxgdt">
+  <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white">
+</a> 
+<a href="https://www.instagram.com/toookhv?igsh=MWx6OTU1Y21mOXF2Mg%3D%3D&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://discord.gg/JRH9ZHaE">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+
 ## 🌷Обо мне
 
 Привет! Я Ксюша мне 17 лет👋 
@@ -20,9 +32,11 @@ _Очень люблю животных!!!!_
 ---
 # 💻Соц сети
  * Telegram
-   * @pkxgdt
+   * [pkxgdt](https://t.me/pkxgdt)
  * Instagram
     * [toookhv](https://www.instagram.com/toookhv?igsh=MWx6OTU1Y21mOXF2Mg%3D%3D&utm_source=qr)
+ * Discord
+     * [alaska](https://discord.gg/JRH9ZHaE)
 
 
 
